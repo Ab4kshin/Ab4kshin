@@ -23,34 +23,19 @@ I use AI tools to speed up development, but I care about clean UX, working build
 
 ## Featured Projects
 
-### 📱 [Project Name]
-Short description of what the app does and what problem it solves.
-
-Tech:
-`Flutter` `Firebase` `REST API`
-
-Features:
-- Authentication
-- Realtime data
-- Clean UI
-- Push notifications
-
-[Repository Link](#)
-
 ---
 
-### 📱 [Project Name]
-Short description.
+### 📱 Notes
+Notes app.
 
 Tech:
-`Flutter` `Supabase`
+`Flutter`
 
 Features:
 - Cross-platform
 - Offline support
-- Dashboard UI
 
-[Repository Link](#)
+[Repository Link](https://github.com/Ab4kshin/notes)
 
 ---
 
