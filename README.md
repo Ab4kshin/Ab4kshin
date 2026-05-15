@@ -23,7 +23,6 @@ I use AI tools to speed up development, but I care about clean UX, working build
 
 ## Featured Projects
 
----
 
 ### 📱 Notes
 Notes app.
