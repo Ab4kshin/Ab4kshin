@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi, I'm Dmitriy 👋
 
-<!--
-**Ab4kshin/Ab4kshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Flutter developer focused on building fast mobile MVPs and small production-ready apps.
 
-Here are some ideas to get you started:
+I use AI tools to speed up development, but I care about clean UX, working builds, and real delivery — not just generated code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I build
+
+- Mobile MVPs
+- Internal business tools
+- AI-powered mobile apps
+- Productivity & utility apps
+- Firebase-based applications
+
+## Tech Stack
+
+- Flutter / Dart
+- Firebase
+- REST APIs
+- Supabase
+- SQLite
+- Git / GitHub
+
+## Featured Projects
+
+### 📱 [Project Name]
+Short description of what the app does and what problem it solves.
+
+Tech:
+`Flutter` `Firebase` `REST API`
+
+Features:
+- Authentication
+- Realtime data
+- Clean UI
+- Push notifications
+
+[Repository Link](#)
+
+---
+
+### 📱 [Project Name]
+Short description.
+
+Tech:
+`Flutter` `Supabase`
+
+Features:
+- Cross-platform
+- Offline support
+- Dashboard UI
+
+[Repository Link](#)
+
+---
+
+## Currently
+
+- Building mobile apps with Flutter
+- Exploring AI-assisted development workflows
+- Improving UI/UX and product delivery speed
+
+## Contact
+
+- GitHub: https://github.com/Ab4kshin
+- Telegram: @dima_vodniy
+
+Open to small MVP and mobile app projects.
