@@ -45,8 +45,9 @@ Tech:
 Features:
 - Cross-platform
 - Offline support
-
+  
 [Repository Link](https://github.com/Ab4kshin/focusflow)
+
 ---
 
 ## Currently
