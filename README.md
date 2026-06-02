@@ -36,6 +36,17 @@ Features:
 
 [Repository Link](https://github.com/Ab4kshin/notes)
 
+### 📱 FocusFlow
+Focus Session & Pomodoro Timer .
+
+Tech:
+`Flutter`
+
+Features:
+- Cross-platform
+- Offline support
+
+[Repository Link](https://github.com/Ab4kshin/focusflow)
 ---
 
 ## Currently
