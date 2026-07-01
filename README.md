@@ -37,7 +37,7 @@ Telegram Mini App to connect a TON wallet and explore its contents — balance, 
 
 **Tech:** `JavaScript` · `TON Connect` · `tonapi.io` · `Telegram WebApp`
 
-🔗 [Repository](https://github.com/Ab4kshin/ton-wallet-explorer)
+🔗 [Repository](https://github.com/Ab4kshin/ton-wallet-explorer) [Telegram](https://t.me/tonwalletexplorerbot)
 
 ### ⏱️ FocusFlow
 Focus session & Pomodoro timer with task management, statistics and daily streaks. Built on Clean Architecture with Riverpod and local Isar storage — fully offline.
