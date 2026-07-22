@@ -17,21 +17,28 @@ I ship real products with clean UX and builds that actually work: a Telegram Min
 
 ## ⚙️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![TON](https://img.shields.io/badge/TON-0088CC?style=for-the-badge&logo=ton&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=flat&logo=telegram&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![TON](https://img.shields.io/badge/TON-0098EA?style=flat&logo=ton&logoColor=white)
+![Telegram Mini Apps](https://img.shields.io/badge/Telegram%20Mini%20Apps-26A5E4?style=flat&logo=telegram&logoColor=white)
 
 ---
 
 ## 📂 Featured Projects
+
+### 🧱 TON Mini App Starter
+Open-source starter for building Telegram Mini Apps on TON, with payments working out of the box — server-verified Telegram auth via `initData`, TON Connect, native TON and USDT payments verified on the backend with idempotency, and an admin panel. Open source and free to fork.
+
+**Tech:** `TypeScript` · `React` · `Node.js` · `TON Connect` · `Telegram Mini Apps`
+
+🔗 [Repository](https://github.com/Ab4kshin/ton-mini-app-starter) · ✈️ [Telegram](https://t.me/ton_starterbot)
 
 ### 🛍️ TG Shop Demo
 Telegram Mini App storefront with a bot front door, FastAPI backend and admin dashboard — catalog, cart, checkout with multiple payment options and native Telegram theming via `@telegram-apps/telegram-ui`.
@@ -61,7 +68,6 @@ Focus session & Pomodoro timer with task management, statistics and daily streak
 
 🔗 [Repository](https://github.com/Ab4kshin/focusflow)
 
-
 ### 📝 Notes
 Lightweight, offline-first note-taking app with a clean Material Design UI. Published on RuStore.
 
@@ -74,6 +80,7 @@ Lightweight, offline-first note-taking app with a clean Material Design UI. Publ
 ## 🌱 Currently
 
 - Building Telegram bots & Mini Apps with integrated payments (crypto, TON)
+- Building and shipping open-source TON Mini App tools in public
 - Building mobile apps with Flutter
 - Sharpening UI/UX and product delivery speed
 
@@ -84,4 +91,4 @@ Lightweight, offline-first note-taking app with a clean Material Design UI. Publ
 - 🐙 GitHub: [@Ab4kshin](https://github.com/Ab4kshin)
 - 👽 Reddit: [u/MattPixel10pro](https://www.reddit.com/user/MattPixel10pro/)
 
-*Open to freelance mobile, bot and automation projects.*
+*Open to freelance Mini App, bot, mobile and automation projects.*
