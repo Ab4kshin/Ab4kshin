@@ -2,9 +2,9 @@
 
 **Telegram bots, Mini Apps (incl. TON / web3) & Python automation** — plus mobile apps built with **Flutter**.
 
-I ship real products with clean UX and builds that actually work: a Telegram Mini App storefront with bot + payments, a TON Mini App with on-chain wallet integration, a Telegram Mini App for real-time F1 data, and a mobile app already **live on RuStore**. I lean on AI-assisted workflows to move faster, without cutting corners on quality.
+I make real products with clean UX and builds that actually work: a Telegram Mini App storefront with bot + payments, a TON Mini App with on-chain wallet integration, a Telegram Mini App for real-time F1 data, and a mobile app already **live on RuStore**. I lean on AI-assisted workflows to move faster, without cutting corners on quality.
 
-🌐 **Portfolio:** [mattpixel.netlify.app](https://mattpixel.netlify.app/)
+🌐 **Portfolio:** [mattpixel.dev](https://mattpixel.dev/)
 
 ---
 
@@ -38,7 +38,7 @@ Open-source starter for building Telegram Mini Apps on TON, with payments workin
 
 **Tech:** `TypeScript` · `React` · `Node.js` · `TON Connect` · `Telegram Mini Apps`
 
-🔗 [Repository](https://github.com/Ab4kshin/ton-mini-app-starter) · ✈️ [Telegram](https://t.me/ton_starterbot)
+🔗 [Repository](https://github.com/Ab4kshin/ton-mini-app-starter)
 
 ### 🛍️ TG Shop Demo
 Telegram Mini App storefront with a bot front door, FastAPI backend and admin dashboard — catalog, cart, checkout with multiple payment options and native Telegram theming via `@telegram-apps/telegram-ui`.
@@ -52,7 +52,7 @@ Telegram Mini App to connect a TON wallet and explore its contents — balance, 
 
 **Tech:** `JavaScript` · `TON Connect` · `tonapi.io` · `Telegram WebApp`
 
-🔗 [Repository](https://github.com/Ab4kshin/ton-wallet-explorer) · ✈️ [Telegram](https://t.me/tonwalletexplorerbot)
+🔗 [Repository](https://github.com/Ab4kshin/ton-wallet-explorer)
 
 ### 🏎️ F1 Live
 Telegram Mini App for Formula 1 fans — race schedule with countdown, latest results, driver & constructor standings, and a live session view with real-time positions and an interactive track map. Powered by the OpenF1 API.
